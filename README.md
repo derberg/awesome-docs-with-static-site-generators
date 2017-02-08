@@ -10,12 +10,19 @@ This repo is suppose to give you a bunch of links. They will help you to quickly
 
 You can share your templates or implementations by reporting an [issue](https://github.com/derberg/docu-based-on-static-site-generators/issues) or by submitting a [pull request](https://github.com/derberg/docu-based-on-static-site-generators/pulls).
 
-## Templates
+## Static Site Generators
+
+* Short explanation: Tools to generate a web page that you can host for free using services like [GitHub Pages](https://pages.github.com/).
+* Bigger explanation [here](https://davidwalsh.name/introduction-static-site-generators)
+* Over 400 of them. Listed [here](https://staticsitegenerators.net/) and [here](https://www.staticgen.com/).
+
+
+### Templates
 
 * https://github.com/Wiredcraft/carte (jekyll)
 * https://github.com/YaaS/docpad-skeleton-apidocs (DocPad)
 
-## Implementations
+### Implementations
 [TODO]
 
 ## Inspiration
