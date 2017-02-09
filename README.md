@@ -25,18 +25,25 @@ You can share your templates or implementations by reporting an [issue](https://
 * Bigger explanation [here](https://davidwalsh.name/introduction-static-site-generators)
 * Over 400 of them. Listed [here](https://staticsitegenerators.net/) and [here](https://www.staticgen.com/).
 
-### DocPad
+### [DocPad](https://docpad.org/)
 
+* https://github.com/YaaS/docpad-skeleton-apidocs [template/skeleton/theme]
+* https://github.com/fluid-project/docs-template [template/skeleton/theme]
 * https://github.com/liferay/alloyui.com [implementation]
 * https://github.com/bevry/docpad-website [implementation]
-* https://github.com/YaaS/docpad-skeleton-apidocs [template/skeleton/theme]
+* https://github.com/fluid-project/infusion-docs [implementation]
 
-### Jekyll
+### [Jekyll](https://jekyllrb.com/)
 
 * https://github.com/Wiredcraft/carte [sample]
 * https://github.com/tomjohnson1492/documentation-theme-jekyll [template/skeleton/theme]
 * https://github.com/kubernetes/kubernetes.github.io [implementation]
+* https://github.com/twbs/bootstrap [implementation]
 * https://github.com/strongloop/loopback.io [implementation]
+
+### [Nanoc](https://nanoc.ws/)
+
+* https://github.com/github-archive/developer.github.com [implementation]
 
 ## Inspiration
 
