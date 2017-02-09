@@ -1,3 +1,12 @@
+### Table of Contents
+
+* [Short Story](#short-story)
+* [About](#about)
+* [Static Site Generators](#static-site-generators)
+  * [DocPad](#docpad)
+  * [Jekyll](#jekyll)
+* [Inspiration](#inspiration)
+
 ## Short Story
 
 I believe that the best way of learn things is to play with them. Learning by example first, then reading and learning more details and theory. I think it's mainly because I'm to dumb to understand the idea or any concept even if it's well described. If I would be a Neanderthalian and somebody would try to explain to be what fire is, I would never understand it. I would have to light it on my own few times, get my first burns and first grilled zucchini.
@@ -16,14 +25,18 @@ You can share your templates or implementations by reporting an [issue](https://
 * Bigger explanation [here](https://davidwalsh.name/introduction-static-site-generators)
 * Over 400 of them. Listed [here](https://staticsitegenerators.net/) and [here](https://www.staticgen.com/).
 
+### DocPad
 
-### Templates
+* https://github.com/liferay/alloyui.com [implementation]
+* https://github.com/bevry/docpad-website [implementation]
+* https://github.com/YaaS/docpad-skeleton-apidocs [template/skeleton/theme]
 
-* https://github.com/Wiredcraft/carte (jekyll)
-* https://github.com/YaaS/docpad-skeleton-apidocs (DocPad)
+### Jekyll
 
-### Implementations
-[TODO]
+* https://github.com/Wiredcraft/carte [sample]
+* https://github.com/tomjohnson1492/documentation-theme-jekyll [template/skeleton/theme]
+* https://github.com/kubernetes/kubernetes.github.io [implementation]
+* https://github.com/strongloop/loopback.io [implementation]
 
 ## Inspiration
 
