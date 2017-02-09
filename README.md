@@ -6,6 +6,7 @@
   * [DocPad](#docpad)
   * [Jekyll](#jekyll)
   * [Nanoc](#nanoc)
+  * [Hugo](#hugo)
 * [Inspiration](#inspiration)
 
 ## Short Story
@@ -45,6 +46,18 @@ You can share your templates or implementations by reporting an [issue](https://
 ### [Nanoc](https://nanoc.ws/)
 
 * https://github.com/github-archive/developer.github.com [implementation]
+* https://github.com/nanoc/nanoc.ws [implementation]
+* https://github.com/flattr/developers.flattr.net/tree/master [implementation]
+
+### [Hugo](http://gohugo.io/)
+
+* https://github.com/lord/slate [template/skeleton/theme]
+* https://github.com/key-amb/hugo-theme-bootie-docs [template/skeleton/theme]
+* https://github.com/digitalcraftsman/hugo-material-docs [template/skeleton/theme]
+* https://github.com/spf13/hugo [implementation]
+* https://github.com/matcornic/hugo-theme-learn [template/skeleton/theme]
+* https://github.com/digitalcraftsman/hugo-alabaster-theme/ [template/skeleton/theme]
+* https://github.com/adejoux/hugo-darkdoc-theme/ [template/skeleton/theme]
 
 ## Inspiration
 
