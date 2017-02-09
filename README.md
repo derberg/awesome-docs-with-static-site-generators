@@ -5,6 +5,7 @@
 * [Static Site Generators](#static-site-generators)
   * [DocPad](#docpad)
   * [Jekyll](#jekyll)
+  * [Nanoc](#nanoc)
 * [Inspiration](#inspiration)
 
 ## Short Story
