@@ -74,9 +74,9 @@ You can share your templates or implementations by reporting an [issue](https://
 ### [Sphinx](http://www.sphinx-doc.org/)
 
 * https://github.com/snide/sphinx_rtd_theme [template/skeleton/theme]
-* https://github.com/bitprophet/alabaster
-*
-* 
+* https://github.com/bitprophet/alabaster [template/skeleton/theme]
+* https://github.com/ryan-roemer/sphinx-bootstrap-theme [template/skeleton/theme]
+* https://github.com/guzzle/guzzle_sphinx_theme [template/skeleton/theme]
 
 ## Inspiration
 
