@@ -24,6 +24,8 @@ This repo is suppose to give you a bunch of links to themes or ready implementat
 
 You can share your templates or implementations by reporting an [issue](https://github.com/derberg/docu-based-on-static-site-generators/issues) or by submitting a [pull request](https://github.com/derberg/docu-based-on-static-site-generators/pulls).
 
+Why not just templates only? Simply because basing on my experience it is sometimes also good to learn on ready implementations. This is how I understood what generators are. I played with https://github.com/Wiredcraft/carte [Jekyll] and https://github.com/liferay/alloyui.com [DocPad] first, and prepared a proof of concept by setting up the second one locally with my own content. 
+
 ## Static Site Generators
 
 * Short explanation: Tools to generate a web page that you can host for free using services like [GitHub Pages](https://pages.github.com/).
