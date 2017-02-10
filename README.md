@@ -20,7 +20,7 @@ What I'm trying to explain here is ... :) that my adventure with static site gen
 
 ## About
 
-This repo is suppose to give you a bunch of links. They will help you to quickly get some good samples to play with a static site generator that you are interested with.
+This repo is suppose to give you a bunch of links to themes or ready implementations of documentation portals. They will help you to quickly get some good samples to play with a static site generator that you are interested with.
 
 You can share your templates or implementations by reporting an [issue](https://github.com/derberg/docu-based-on-static-site-generators/issues) or by submitting a [pull request](https://github.com/derberg/docu-based-on-static-site-generators/pulls).
 
