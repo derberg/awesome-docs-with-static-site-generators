@@ -7,6 +7,9 @@
   * [Jekyll](#jekyll)
   * [Nanoc](#nanoc)
   * [Hugo](#hugo)
+  * [Gatsby](#gatsby)
+  * [Middleman](#middleman)
+  * [Sphinx](#sphinx)
 * [Inspiration](#inspiration)
 
 ## Short Story
@@ -51,13 +54,29 @@ You can share your templates or implementations by reporting an [issue](https://
 
 ### [Hugo](http://gohugo.io/)
 
-* https://github.com/lord/slate [template/skeleton/theme]
+* https://github.com/bep/docuapi [template/skeleton/theme]
 * https://github.com/key-amb/hugo-theme-bootie-docs [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-material-docs [template/skeleton/theme]
 * https://github.com/spf13/hugo [implementation]
 * https://github.com/matcornic/hugo-theme-learn [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-alabaster-theme/ [template/skeleton/theme]
 * https://github.com/adejoux/hugo-darkdoc-theme/ [template/skeleton/theme]
+
+### [Gatsby](https://github.com/gatsbyjs/gatsby)
+
+* https://github.com/graphql-python/graphene/tree/master/docs [implementation]
+
+### [Middleman](https://middlemanapp.com/)
+
+* https://github.com/middleman/middleman-guides [template/skeleton/theme]
+* https://github.com/lord/slate [template/skeleton/theme]
+
+### [Sphinx](http://www.sphinx-doc.org/)
+
+* https://github.com/snide/sphinx_rtd_theme [template/skeleton/theme]
+* https://github.com/bitprophet/alabaster
+*
+* 
 
 ## Inspiration
 
