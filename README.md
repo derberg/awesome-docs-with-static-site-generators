@@ -10,6 +10,7 @@
   * [Gatsby](#gatsby)
   * [Middleman](#middleman)
   * [Sphinx](#sphinx)
+  * [Hexo](#hexo)
 * [Inspiration](#inspiration)
 
 ## Short Story
@@ -79,6 +80,11 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/bitprophet/alabaster [template/skeleton/theme]
 * https://github.com/ryan-roemer/sphinx-bootstrap-theme [template/skeleton/theme]
 * https://github.com/guzzle/guzzle_sphinx_theme [template/skeleton/theme]
+
+### [Hexo](https://hexo.io/)
+
+* https://github.com/xcatliu/hexo-theme-wiki-i18n [template/skeleton/theme] and its implementation https://github.com/xcatliu/js-index
+
 
 ## Inspiration
 
