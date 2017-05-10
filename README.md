@@ -11,6 +11,7 @@
   * [Middleman](#middleman)
   * [Sphinx](#sphinx)
   * [Hexo](#hexo)
+  * [Dactyl](#dactyl)
 * [Inspiration](#inspiration)
 
 ## Short Story
@@ -48,12 +49,14 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/kubernetes/kubernetes.github.io [implementation]
 * https://github.com/twbs/bootstrap [implementation]
 * https://github.com/strongloop/loopback.io [implementation]
+* https://github.com/Dwolla/open-source-developer-portal [implementation]
 
 ### [Nanoc](https://nanoc.ws/)
 
 * https://github.com/github-archive/developer.github.com [implementation]
 * https://github.com/nanoc/nanoc.ws [implementation]
 * https://github.com/flattr/developers.flattr.net/tree/master [implementation]
+* https://github.com/prometheus/docs [implementation]
 
 ### [Hugo](http://gohugo.io/)
 
@@ -85,6 +88,9 @@ Why not just templates only? Simply because basing on my experience it is someti
 
 * https://github.com/xcatliu/hexo-theme-wiki-i18n [template/skeleton/theme] and its implementation https://github.com/xcatliu/js-index
 
+### [Dactyl](https://github.com/ripple/dactyl)
+
+* https://github.com/ripple/ripple-dev-portal [implementation]
 
 ## Inspiration
 
