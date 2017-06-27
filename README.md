@@ -63,7 +63,7 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/bep/docuapi [template/skeleton/theme]
 * https://github.com/key-amb/hugo-theme-bootie-docs [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-material-docs [template/skeleton/theme]
-* https://github.com/spf13/hugo [implementation]
+* https://github.com/gohugoio/hugo/tree/master/docs [implementation]
 * https://github.com/matcornic/hugo-theme-learn [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-alabaster-theme/ [template/skeleton/theme]
 * https://github.com/adejoux/hugo-darkdoc-theme/ [template/skeleton/theme]
