@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/derberg/docs-with-static-site-generators.svg?branch=master)](https://travis-ci.org/derberg/docs-with-static-site-generators)
+
 ### Table of Contents
 
 * [Short Story](#short-story)
