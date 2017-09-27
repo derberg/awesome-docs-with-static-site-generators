@@ -50,6 +50,8 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/strongloop/loopback.io [implementation]
 * https://github.com/Dwolla/open-source-developer-portal [implementation]
 * https://github.com/apache/incubator-openwhisk-website [implementation]
+* https://github.com/yarnpkg/website [implementation]
+* https://github.com/electron/electron.atom.io [implementation]
 
 ### [Nanoc](https://nanoc.ws/)
 
