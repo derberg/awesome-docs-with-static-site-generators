@@ -1,0 +1,1 @@
+You can share your templates or implementations by reporting an [issue](https://github.com/derberg/docu-based-on-static-site-generators/issues) or by submitting a [pull request](https://github.com/derberg/docu-based-on-static-site-generators/pulls). For now there are no strict rules as any contribution will actually be appriciated.
