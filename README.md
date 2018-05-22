@@ -17,7 +17,7 @@
 
 ## Short Story
 
-I believe that the best way of learn things is to play with them. Learning by example first, then reading and learning more details and theory. I think it's mainly because I'm to dumb to understand the idea or any concept even if it's well described. If I would be a Neanderthalian and somebody would try to explain to be what fire is, I would never understand it. I would have to light it on my own few times, get my first burns and first grilled zucchini.
+I believe that the best way of learn things is to play with them. Learning by example first, then reading and learning more details and theory. I think it's mainly because I'm to dumb to understand the idea or any concept even if it's well described. If I was a Neanderthalian and somebody tried to explain to me what fire is, I would never understand it. I would have to light it on my own few times, get my first burns and first grilled zucchini.
 
 What I'm trying to explain here is ... :) that my adventure with static site generators started, because I could use somebody's work. I could play with it and quickly see what I can do and to quickly set up a sample that I could present in my company to drive a change. Now you have all the links in one place, you don't have to spend to much time on research.
 
