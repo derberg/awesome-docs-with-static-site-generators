@@ -45,7 +45,6 @@ Why not just templates only? Simply because basing on my experience it is someti
 
 * https://github.com/Wiredcraft/carte [sample]
 * https://github.com/tomjohnson1492/documentation-theme-jekyll [template/skeleton/theme]
-* https://github.com/kubernetes/kubernetes.github.io [implementation]
 * https://github.com/twbs/bootstrap [implementation]
 * https://github.com/strongloop/loopback.io [implementation]
 * https://github.com/Dwolla/open-source-developer-portal [implementation]
@@ -62,6 +61,7 @@ Why not just templates only? Simply because basing on my experience it is someti
 
 ### [Hugo](http://gohugo.io/)
 
+* https://github.com/kubernetes/website
 * https://github.com/bep/docuapi [template/skeleton/theme]
 * https://github.com/key-amb/hugo-theme-bootie-docs [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-material-docs [template/skeleton/theme]
