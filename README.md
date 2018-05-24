@@ -61,7 +61,7 @@ Why not just templates only? Simply because basing on my experience it is someti
 
 ### [Hugo](http://gohugo.io/)
 
-* https://github.com/kubernetes/website
+* https://github.com/kubernetes/website [implementation]
 * https://github.com/bep/docuapi [template/skeleton/theme]
 * https://github.com/key-amb/hugo-theme-bootie-docs [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-material-docs [template/skeleton/theme]
@@ -69,6 +69,8 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/matcornic/hugo-theme-learn [template/skeleton/theme]
 * https://github.com/digitalcraftsman/hugo-alabaster-theme/ [template/skeleton/theme]
 * https://github.com/adejoux/hugo-darkdoc-theme/ [template/skeleton/theme]
+* https://github.com/letsencrypt/website [implementation]
+* https://github.com/linode/docs [implementation]
 
 ### [Gatsby](https://github.com/gatsbyjs/gatsby)
 
