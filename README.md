@@ -71,6 +71,7 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/adejoux/hugo-darkdoc-theme/ [template/skeleton/theme]
 * https://github.com/letsencrypt/website [implementation]
 * https://github.com/linode/docs [implementation]
+* https://github.com/livechat/livechat-public-docs [implementation]
 
 ### [Gatsby](https://github.com/gatsbyjs/gatsby)
 
