@@ -73,6 +73,7 @@ Why not just templates only? Simply because basing on my experience it is someti
 * https://github.com/linode/docs [implementation]
 * https://github.com/livechat/livechat-public-docs [implementation]
 * https://github.com/jeblister/kube [theme]
+* https://github.com/gohugoio/gohugoioTheme [theme]
 
 ### [Gatsby](https://github.com/gatsbyjs/gatsby)
 
