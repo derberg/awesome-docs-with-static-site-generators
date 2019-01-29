@@ -1,4 +1,5 @@
 # Awesome Docs with Static Site Generators [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)   [![Build Status](https://travis-ci.org/derberg/awesome-docs-with-static-site-generators.svg?branch=master)](https://travis-ci.org/derberg/awesome-docs-with-static-site-generators)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fderberg%2Fawesome-docs-with-static-site-generators.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fderberg%2Fawesome-docs-with-static-site-generators?ref=badge_shield)
 
 ### Table of Contents
 
@@ -99,3 +100,7 @@ Why not just templates only? Simply because basing on my experience it is someti
 ### [Dactyl](https://github.com/ripple/dactyl)
 
 * https://github.com/ripple/ripple-dev-portal [implementation]
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fderberg%2Fawesome-docs-with-static-site-generators.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fderberg%2Fawesome-docs-with-static-site-generators?ref=badge_large)
